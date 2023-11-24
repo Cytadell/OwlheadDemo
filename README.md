@@ -9,7 +9,7 @@ While attempting to create a system that could expand a person's FOV in VR, we f
 (Normal 96 degree vison)
 ![95FOV](https://github.com/Cytadell/OwlheadDemo/assets/150078342/975fd44e-f7ea-4493-862a-7989c41019f6)
 (Expanded 150 degree vision, note the image is more warped on screen then it is in VR)
-![IMG_1056](https://github.com/Cytadell/OwlheadDemo/assets/150078342/aafeedb2-f4fa-4a5e-af4b-12c932102876)
+![150FOV](https://github.com/Cytadell/OwlheadDemo/assets/150078342/4cb321ce-d0e0-4ab2-a290-059973f58d0c)
 
 In this expanded vision the player has full range of motion and can easily spot things at the far end of their vision without moving their eyes and with little increased nauseousness. The expansion effect is natural enough such that upon returning to normal VR, most users thus far report feeling visually limited compared to their expanded vision. 
 
